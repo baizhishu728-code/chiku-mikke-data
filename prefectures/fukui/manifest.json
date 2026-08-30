@@ -1,0 +1,22 @@
+{
+  "prefecture": "福井県",
+  "municipalities": [
+    { "slug": "fukui-shi", "name": "福井市", "available": true },
+    { "slug": "tsuruga-shi", "name": "敦賀市", "available": false },
+    { "slug": "obama-shi", "name": "小浜市", "available": false },
+    { "slug": "ono-shi", "name": "大野市", "available": false },
+    { "slug": "katsuyama-shi", "name": "勝山市", "available": false },
+    { "slug": "sabae-shi", "name": "鯖江市", "available": false },
+    { "slug": "awara-shi", "name": "あわら市", "available": false },
+    { "slug": "echizen-shi", "name": "越前市", "available": false },
+    { "slug": "sakai-shi", "name": "坂井市", "available": false },
+    { "slug": "eiheiji-cho", "name": "永平寺町", "available": false },
+    { "slug": "echizen-cho", "name": "越前町", "available": false },
+    { "slug": "mihama-cho", "name": "美浜町", "available": false },
+    { "slug": "takahama-cho", "name": "高浜町", "available": false },
+    { "slug": "oi-cho", "name": "おおい町", "available": false },
+    { "slug": "wakasa-cho", "name": "若狭町", "available": false },
+    { "slug": "minamiechizen-cho", "name": "南越前町", "available": false },
+    { "slug": "ikeda-cho", "name": "池田町", "available": false }
+  ]
+}
