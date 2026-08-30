@@ -1,0 +1,5934 @@
+[
+ {
+  "kana": "あかり",
+  "town": "明里町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "あしたに",
+  "town": "足谷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "あすわ１～５",
+  "town": "足羽１～５丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "あすわかみ",
+  "town": "足羽上町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "あそうず",
+  "town": "浅水町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "あそうずさんが",
+  "town": "浅水三ケ町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "あそうずふつかまち",
+  "town": "浅水二日町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "あどせ",
+  "town": "網戸瀬町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "あばか",
+  "town": "安波賀町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "一乗"
+   }
+  ]
+ },
+ {
+  "kana": "あばかなかじま",
+  "town": "安波賀中島町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "一乗"
+   }
+  ]
+ },
+ {
+  "kana": "あぼ",
+  "town": "安保町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "あまいけ",
+  "town": "天池町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "あまがたに",
+  "town": "尼ヶ谷町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "あますごう",
+  "town": "天菅生町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "大安寺"
+   }
+  ]
+ },
+ {
+  "kana": "あゆかわ",
+  "town": "鮎川町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "国見"
+   }
+  ]
+ },
+ {
+  "kana": "あらき",
+  "town": "荒木町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   }
+  ]
+ },
+ {
+  "kana": "あらきしんぼ",
+  "town": "荒木新保町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   },
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "あらきべっしょ",
+  "town": "荒木別所町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "あらたに",
+  "town": "荒谷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "あかだに",
+  "town": "赤谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "あさだに",
+  "town": "朝谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "あじみこうち",
+  "town": "味見河内町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "あかさか",
+  "town": "赤坂町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "越廼"
+   }
+  ]
+ },
+ {
+  "kana": "あいだ",
+  "town": "在田町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "あさみや",
+  "town": "朝宮町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水北"
+   }
+  ]
+ },
+ {
+  "kana": "いいづか",
+  "town": "飯塚町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "いくひさ",
+  "town": "幾久町",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "いくよ２",
+  "town": "幾代２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "いけのしり",
+  "town": "池尻町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "いけぶ",
+  "town": "生部町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "いししんぼ",
+  "town": "石新保町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "いしばし",
+  "town": "石橋町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "いしばたけ",
+  "town": "石畠町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "いしもり",
+  "town": "石盛町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "いしもり１～３",
+  "town": "石盛１～３丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "いずみだ",
+  "town": "泉田町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "いたがき",
+  "town": "板垣町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "いたがき１～５",
+  "town": "板垣１～５丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "いちおうじ",
+  "town": "一王寺町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "いちのせ",
+  "town": "市ノ瀬町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "いっぽんぎ",
+  "town": "一本木町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "いとさき",
+  "town": "糸崎町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "いなだしんまち",
+  "town": "稲多新町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "いなだはままち",
+  "town": "稲多浜町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "いなだもとまち",
+  "town": "稲多元町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "いなづ",
+  "town": "稲津町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   }
+  ]
+ },
+ {
+  "kana": "いまいち",
+  "town": "今市町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   },
+   {
+    "block": "みなみ",
+    "district": "清明"
+   }
+  ]
+ },
+ {
+  "kana": "いわくら",
+  "town": "岩倉町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "いんでん",
+  "town": "印田町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "いちなみ",
+  "town": "市波町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "いくら",
+  "town": "居倉町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "越廼"
+   }
+  ]
+ },
+ {
+  "kana": "うえの",
+  "town": "上野町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "うえのほんまち１～４",
+  "town": "上野本町１～４丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "うえのほんまちしん",
+  "town": "上野本町新",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "うえぶせ",
+  "town": "上伏町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "うすい１～３",
+  "town": "羽水１～３丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "うたいだに",
+  "town": "謡谷町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "うちやまなし",
+  "town": "内山梨子町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "宮ノ下"
+   },
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "うまがき",
+  "town": "馬垣町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "うんどうこうえん１～４",
+  "town": "運動公園１～４丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社西"
+   }
+  ]
+ },
+ {
+  "kana": "うさかおおたに",
+  "town": "宇坂大谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "うさかべっしょ",
+  "town": "宇坂別所町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "うそがぐち",
+  "town": "獺ケ口町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "えがみ",
+  "town": "江上町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "宮ノ下"
+   }
+  ]
+ },
+ {
+  "kana": "えじりがおか",
+  "town": "江尻ヶ丘町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "えばた",
+  "town": "江端町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   },
+   {
+    "block": "足羽",
+    "district": "六条"
+   },
+   {
+    "block": "みなみ",
+    "district": "清明"
+   }
+  ]
+ },
+ {
+  "kana": "えびすけ",
+  "town": "海老助町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "えもりなか",
+  "town": "江守中町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "えもりなか１～２",
+  "town": "江守中１～２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "えもりのさと１～２",
+  "town": "江守の里１～２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "えんざん１～２",
+  "town": "円山１～２丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "えんじょうじ",
+  "town": "円成寺町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "おおくぼ",
+  "town": "大窪町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "おおしま",
+  "town": "大島町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "清明"
+   },
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "おおせ",
+  "town": "大瀬町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "おおた",
+  "town": "太田町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "おおたに",
+  "town": "大谷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "おおて１～３",
+  "town": "大手１～３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "順化"
+   }
+  ]
+ },
+ {
+  "kana": "おおとし",
+  "town": "大年町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "おおどろ",
+  "town": "大土呂町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "おおまち",
+  "town": "大町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "おおまち１～２",
+  "town": "大町１～２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "おおみや１",
+  "town": "大宮１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "おおみや２",
+  "town": "大宮２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   },
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "おおみや３～４",
+  "town": "大宮３～４丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "おおみや５～６",
+  "town": "大宮５～６丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   }
+  ]
+ },
+ {
+  "kana": "おおむら",
+  "town": "大村町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "おおや",
+  "town": "大矢町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "おおわだ",
+  "town": "大和田町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   },
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "おおわだ１～２",
+  "town": "大和田１～２丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "おかにしたに",
+  "town": "岡西谷町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "おくだいら",
+  "town": "奥平町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "おそがみ",
+  "town": "恐神町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "安居"
+   }
+  ]
+ },
+ {
+  "kana": "おにゅう",
+  "town": "大丹生町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "国見"
+   }
+  ]
+ },
+ {
+  "kana": "おばたけ",
+  "town": "大畑町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "おやまだに",
+  "town": "小山谷町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "おおくぼ",
+  "town": "大久保町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "おおみや",
+  "town": "大宮町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "おとみ",
+  "town": "小当見町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "おりたて",
+  "town": "折立町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "おおみ",
+  "town": "大味町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "越廼"
+   }
+  ]
+ },
+ {
+  "kana": "おおもり",
+  "town": "大森町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "おば",
+  "town": "小羽町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ },
+ {
+  "kana": "かいほつ",
+  "town": "開発町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "かいほつ１～５",
+  "town": "開発１～５丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "かきだに",
+  "town": "柿谷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "がくえん１～３",
+  "town": "学園１～３丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   }
+  ]
+ },
+ {
+  "kana": "かげつ１",
+  "town": "花月１丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   },
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "かげつ２～５",
+  "town": "花月２～５丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   }
+  ]
+ },
+ {
+  "kana": "かざお",
+  "town": "風尾町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "かすが",
+  "town": "春日町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "かすが１～３",
+  "town": "春日１～３丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "かずえなか",
+  "town": "主計中町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "かつみ１～２",
+  "town": "勝見１～２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   }
+  ]
+ },
+ {
+  "kana": "かつみ３",
+  "town": "勝見３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   },
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "かなまた",
+  "town": "鹿俣町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "一乗"
+   }
+  ]
+ },
+ {
+  "kana": "かなや",
+  "town": "金屋町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "かみあぞうだ",
+  "town": "上莇生田町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "六条"
+   }
+  ]
+ },
+ {
+  "kana": "かみいかり",
+  "town": "上一光町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "一光"
+   }
+  ]
+ },
+ {
+  "kana": "かみえじり",
+  "town": "上江尻町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "かみきたの１",
+  "town": "上北野１丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   },
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "かみきたの２",
+  "town": "上北野２丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "かみこぎた",
+  "town": "上河北町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "かみとうごう",
+  "town": "上東郷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "かみなか",
+  "town": "上中町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   },
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "かみびしゃもん",
+  "town": "上毘沙門町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "かみほそえ",
+  "town": "上細江町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "かみもりた",
+  "town": "上森田町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "かみもりた１～６",
+  "town": "上森田１～６丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "かみろくじょう",
+  "town": "上六条町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "六条"
+   }
+  ]
+ },
+ {
+  "kana": "かもがわら",
+  "town": "加茂河原町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   },
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "かもがわら１～４",
+  "town": "加茂河原１～４丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "かもりょくえん",
+  "town": "加茂緑苑町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "かわいかつみ",
+  "town": "河合勝見町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "かわいよりやす",
+  "town": "河合寄安町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "かわいわしづか",
+  "town": "川合鷲塚町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "かわしり",
+  "town": "川尻町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "かごたに",
+  "town": "篭谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "かんとべ",
+  "town": "神当部町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "がもう",
+  "town": "蒲生町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "越廼"
+   }
+  ]
+ },
+ {
+  "kana": "かざまき",
+  "town": "風巻町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "かたかす",
+  "town": "片粕町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水北"
+   }
+  ]
+ },
+ {
+  "kana": "かたやま",
+  "town": "片山町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "かみてが",
+  "town": "上天下町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ },
+ {
+  "kana": "かも",
+  "town": "加茂町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "かもうち",
+  "town": "加茂内町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "きしみず",
+  "town": "岸水町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "大安寺"
+   }
+  ]
+ },
+ {
+  "kana": "きだ",
+  "town": "木田町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "きだ１～３",
+  "town": "木田１～３丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "きたいまいずみ",
+  "town": "北今泉町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "きたすごう",
+  "town": "北菅生町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "きたならはら",
+  "town": "北楢原町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "大安寺"
+   }
+  ]
+ },
+ {
+  "kana": "きたのかみ",
+  "town": "北野上町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "きたのしも",
+  "town": "北野下町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "きたぼり",
+  "town": "北堀町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "安居"
+   }
+  ]
+ },
+ {
+  "kana": "きたやま",
+  "town": "北山町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "きたやましんぼ",
+  "town": "北山新保町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "きたよつい",
+  "town": "北四ッ居町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "きたよつい１",
+  "town": "北四ッ居１丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   },
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "きたよつい２～３",
+  "town": "北四ッ居２～３丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "きつねばし１～２",
+  "town": "狐橋１～２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "きどのうち",
+  "town": "城戸ノ内町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "一乗"
+   }
+  ]
+ },
+ {
+  "kana": "きのした",
+  "town": "木下町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   },
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "きょうえい１",
+  "town": "経栄１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "きょうでん１",
+  "town": "経田１丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   },
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "きょうでん２",
+  "town": "経田２丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "きよね",
+  "town": "木米町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "くきづ",
+  "town": "久喜津町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社西"
+   }
+  ]
+ },
+ {
+  "kana": "くしの",
+  "town": "串野町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "くにみ",
+  "town": "国見町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "国見"
+   }
+  ]
+ },
+ {
+  "kana": "くにやま",
+  "town": "国山町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "くりもり１～２",
+  "town": "栗森１～２丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "くりもりちょうはま",
+  "town": "栗森町浜",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "くろまる",
+  "town": "黒丸町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   },
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "くろまるじょう",
+  "town": "黒丸城町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "くらつくり",
+  "town": "蔵作町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ぐみざき",
+  "town": "茱崎町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "越廼"
+   }
+  ]
+ },
+ {
+  "kana": "グリーンハイツ１～１０",
+  "town": "グリーンハイツ１～１０丁目",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水北"
+   }
+  ]
+ },
+ {
+  "kana": "げば",
+  "town": "下馬町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "げば１～３",
+  "town": "下馬１～３丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "けや１～２",
+  "town": "毛矢１～２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   },
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "けや３",
+  "town": "毛矢３丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "げんしょうじま",
+  "town": "玄正島町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "げんたつ",
+  "town": "堅達町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "けんとく１",
+  "town": "乾徳１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   },
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "けんとく２",
+  "town": "乾徳２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   },
+   {
+    "block": "あたご",
+    "district": "湊"
+   }
+  ]
+ },
+ {
+  "kana": "けんとく３～４",
+  "town": "乾徳３～４丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   }
+  ]
+ },
+ {
+  "kana": "こいなづ",
+  "town": "小稲津町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "六条"
+   }
+  ]
+ },
+ {
+  "kana": "ごうじま",
+  "town": "合島町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "こうすい",
+  "town": "河水町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "ごうだに",
+  "town": "合谷町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "こうち",
+  "town": "河内町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "こうます",
+  "town": "河増町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "こうよう１～２",
+  "town": "光陽１～２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   }
+  ]
+ },
+ {
+  "kana": "こうよう３",
+  "town": "光陽３丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   },
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "こうよう４",
+  "town": "光陽４丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "こおり",
+  "town": "郡町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "こじょう",
+  "town": "小尉町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "ごしょがいち",
+  "town": "御所垣内町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "宮ノ下"
+   }
+  ]
+ },
+ {
+  "kana": "ごたいし",
+  "town": "五太子町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "一光"
+   }
+  ]
+ },
+ {
+  "kana": "こにゅう",
+  "town": "小丹生町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "国見"
+   }
+  ]
+ },
+ {
+  "kana": "この",
+  "town": "小野町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "こわた",
+  "town": "小幡町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "こうさか",
+  "town": "小宇坂町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "こうさかじま",
+  "town": "小宇坂島町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "こわしょうず",
+  "town": "小和清水町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "こしきだに",
+  "town": "甑谷町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "ごゆ",
+  "town": "御油町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "さかえ",
+  "town": "栄町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "さかした",
+  "town": "坂下町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "さだまさ",
+  "town": "定正町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "さだまさ１～２",
+  "town": "定正１～２丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "さとべっしょ",
+  "town": "里別所町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "さとべっしょしん",
+  "town": "里別所新町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "さない",
+  "town": "左内町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "さの",
+  "town": "佐野町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "さぶろうまる",
+  "town": "三郎丸町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "さぶろうまる１～４",
+  "town": "三郎丸１～４丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "さらげ",
+  "town": "更毛町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "安居"
+   }
+  ]
+ },
+ {
+  "kana": "さんじゅうはっしゃ",
+  "town": "三十八社町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "さんぼんぎ",
+  "town": "三本木町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "さかいでら",
+  "town": "境寺町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "さらだに",
+  "town": "皿谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "さんまんだに",
+  "town": "三万谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ささだに",
+  "town": "笹谷町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "しくぬの",
+  "town": "宿布町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   }
+  ]
+ },
+ {
+  "kana": "しげたて",
+  "town": "重立町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "しじゅうたに",
+  "town": "四十谷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "大安寺"
+   }
+  ]
+ },
+ {
+  "kana": "しのお",
+  "town": "篠尾町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   }
+  ]
+ },
+ {
+  "kana": "しひぐち１～３",
+  "town": "志比口１～３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   }
+  ]
+ },
+ {
+  "kana": "しまばし",
+  "town": "島橋町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "しまやまなし",
+  "town": "島山梨子町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "宮ノ下"
+   }
+  ]
+ },
+ {
+  "kana": "しみずだいら",
+  "town": "清水平町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "しもあぞうだ",
+  "town": "下莇生田町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "六条"
+   }
+  ]
+ },
+ {
+  "kana": "しもあらい",
+  "town": "下荒井町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "清明"
+   }
+  ]
+ },
+ {
+  "kana": "しもいかり",
+  "town": "下一光町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "一光"
+   }
+  ]
+ },
+ {
+  "kana": "しもいち",
+  "town": "下市町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "しもえじり",
+  "town": "下江尻町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "しもえもり",
+  "town": "下江守町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   },
+   {
+    "block": "みなみ",
+    "district": "社西"
+   },
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "しもこぎた",
+  "town": "下河北町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "しもとうごう",
+  "town": "下東郷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "しもなか",
+  "town": "下中町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "しもびしゃもん",
+  "town": "下毘沙門町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "しもほそえ",
+  "town": "下細江町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "しももりだ",
+  "town": "下森田町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "しももりださくらまち",
+  "town": "下森田桜町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "しももりだしんまち",
+  "town": "下森田新町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "しももりだふじまき",
+  "town": "下森田藤巻町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "しももりだほんまち",
+  "town": "下森田本町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "しもろくじょう",
+  "town": "下六条町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "六条"
+   }
+  ]
+ },
+ {
+  "kana": "しゅくどう",
+  "town": "宿堂町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "じゅんか１",
+  "town": "順化１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "順化"
+   },
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "じゅんか２",
+  "town": "順化２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "順化"
+   },
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   },
+   {
+    "block": "あたご",
+    "district": "湊"
+   }
+  ]
+ },
+ {
+  "kana": "じょうがんじ",
+  "town": "成願寺町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   }
+  ]
+ },
+ {
+  "kana": "じょうきょうじ",
+  "town": "浄教寺町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "一乗"
+   }
+  ]
+ },
+ {
+  "kana": "しょうじ",
+  "town": "小路町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "じょうとう１",
+  "town": "城東１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   },
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   }
+  ]
+ },
+ {
+  "kana": "じょうとう２",
+  "town": "城東２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   }
+  ]
+ },
+ {
+  "kana": "じょうとう３",
+  "town": "城東３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   },
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "じょうとう４",
+  "town": "城東４丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   },
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   },
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "じょうどじ",
+  "town": "浄土寺町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "しょうの",
+  "town": "生野町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "しょうぶだに",
+  "town": "菖蒲谷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "しょうわしんまち",
+  "town": "昭和新町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "しらかた",
+  "town": "白方町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "しらたき",
+  "town": "白滝町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "しらはま",
+  "town": "白浜町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "国見"
+   }
+  ]
+ },
+ {
+  "kana": "じろうまる",
+  "town": "次郎丸町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "しんしもえもり",
+  "town": "新下江守町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "しんでんほんまち",
+  "town": "新田本町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "しんびらき",
+  "town": "新開町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "しんぼ",
+  "town": "新保町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "しんぼ１～３",
+  "town": "新保１～３丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "しんぼきた１",
+  "town": "新保北１丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "しながせ",
+  "town": "品ケ瀬町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "しろあり",
+  "town": "城有町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "越廼"
+   }
+  ]
+ },
+ {
+  "kana": "しづがおか１～４",
+  "town": "志津が丘１～４丁目",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "しまでら",
+  "town": "島寺町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "しみず",
+  "town": "清水町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ },
+ {
+  "kana": "しみずすぎたに",
+  "town": "清水杉谷町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ },
+ {
+  "kana": "しみずばた",
+  "town": "清水畑町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "しみずやま",
+  "town": "清水山町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "しもてが",
+  "town": "下天下町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ },
+ {
+  "kana": "すえ",
+  "town": "末町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "安居"
+   }
+  ]
+ },
+ {
+  "kana": "すえひろ",
+  "town": "末広町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "すがや",
+  "town": "菅谷町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "すがや１～２",
+  "town": "菅谷１～２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "すぎたに",
+  "town": "杉谷町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "清明"
+   }
+  ]
+ },
+ {
+  "kana": "すなござか",
+  "town": "砂子坂町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "すなごだ",
+  "town": "砂子田町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "すいだに",
+  "town": "椙谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "せいわ１～２",
+  "town": "成和１～２丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "せん",
+  "town": "仙町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "宮ノ下"
+   }
+  ]
+ },
+ {
+  "kana": "そんぼ",
+  "town": "曽万布町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "だいがんじ１～３",
+  "town": "大願寺１～３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "だいとう１",
+  "town": "大東１丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   },
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "だいとう２～３",
+  "town": "大東２～３丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "たかお",
+  "town": "高尾町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   }
+  ]
+ },
+ {
+  "kana": "たかぎ",
+  "town": "高木町",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   },
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   },
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "たかぎ１～２",
+  "town": "高木１～２丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "たかぎきた１～５",
+  "town": "高木北１～５丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "たかぎちゅうおう１～３",
+  "town": "高木中央１～３丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "たかぎにし１",
+  "town": "高木西１丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "たかす",
+  "town": "高須町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "たかつか",
+  "town": "高塚町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "たかや",
+  "town": "高屋町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "たかやなぎ",
+  "town": "高柳町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "たかやなぎ１～３",
+  "town": "高柳１～３丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "たじしま",
+  "town": "田治島町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "たないけ",
+  "town": "種池町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "たないけ１～２",
+  "town": "種池１～２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "たなか",
+  "town": "田中町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "たのかしら",
+  "town": "田ノ頭町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "たのたに",
+  "town": "田ノ谷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "大安寺"
+   }
+  ]
+ },
+ {
+  "kana": "ためより",
+  "town": "為寄町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "たわら１",
+  "town": "田原１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "たわら２",
+  "town": "田原２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   },
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   }
+  ]
+ },
+ {
+  "kana": "たかだ",
+  "town": "高田町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "たじり",
+  "town": "田尻町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "たきなみ",
+  "town": "滝波町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "たこう",
+  "town": "竹生町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ },
+ {
+  "kana": "たじりとちたに",
+  "town": "田尻栃谷町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ },
+ {
+  "kana": "ちごう",
+  "town": "千合町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "ぢぞうどう",
+  "town": "地蔵堂町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "ちゅうおう１～３",
+  "town": "中央１～３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "順化"
+   }
+  ]
+ },
+ {
+  "kana": "つきみ",
+  "town": "月見町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "つきみ１～５",
+  "town": "月見１～５丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "つくしの１～３",
+  "town": "つくし野１～３丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "つくも１～２",
+  "town": "つくも１～２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "つちはし",
+  "town": "土橋町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "つのおり",
+  "town": "角折町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "つのはら",
+  "town": "角原町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "つるぎおおたに",
+  "town": "剣大谷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "宮ノ下"
+   }
+  ]
+ },
+ {
+  "kana": "つぼたに",
+  "town": "坪谷町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "てよせ１～２",
+  "town": "手寄１～２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   }
+  ]
+ },
+ {
+  "kana": "てらまえ",
+  "town": "寺前町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "てるて１",
+  "town": "照手１丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   },
+   {
+    "block": "不死鳥",
+    "district": "順化"
+   }
+  ]
+ },
+ {
+  "kana": "てるて２～４",
+  "town": "照手２～４丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   }
+  ]
+ },
+ {
+  "kana": "てるてちょう４",
+  "town": "照手町４丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   }
+  ]
+ },
+ {
+  "kana": "てんが",
+  "town": "殿下町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "てんのう",
+  "town": "天王町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "六条"
+   }
+  ]
+ },
+ {
+  "kana": "といやちょう１～４",
+  "town": "問屋町１～４丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "とうごうなかじま",
+  "town": "東郷中島町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "とうごうにか",
+  "town": "東郷二ヶ町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "どうじま",
+  "town": "堂島町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "とうぶ",
+  "town": "燈豊町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "とうみょうじ",
+  "town": "灯明寺町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "とうみょうじ１～４",
+  "town": "灯明寺１～４丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "とがの",
+  "town": "栂野町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   }
+  ]
+ },
+ {
+  "kana": "とくお",
+  "town": "徳尾町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "とくみつ",
+  "town": "徳光町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "とちいずみ",
+  "town": "栃泉町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "とよおか１～２",
+  "town": "豊岡１～２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "とよしま１～２",
+  "town": "豊島１～２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   }
+  ]
+ },
+ {
+  "kana": "ところだに",
+  "town": "所谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "なかあらい",
+  "town": "中荒井町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "清明"
+   }
+  ]
+ },
+ {
+  "kana": "なかこうち",
+  "town": "中河内町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "なかしんでん",
+  "town": "中新田町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "なかだいら",
+  "town": "中平町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "なかつの",
+  "town": "中角町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "なかの",
+  "town": "中野町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "なかの１～３丁目",
+  "town": "中野１～３丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "なかのごう",
+  "town": "中ノ郷町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "ながはし",
+  "town": "長橋町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "なかびしゃもん",
+  "town": "中毘沙門町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "なかふじしんぼ",
+  "town": "中藤新保町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "なかまち",
+  "town": "中町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "ながもと",
+  "town": "長本町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "なかやま",
+  "town": "中山町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "なご",
+  "town": "南居町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "なみよせ",
+  "town": "波寄町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "なかんて",
+  "town": "中手町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ならせ",
+  "town": "奈良瀬町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "にしあらい",
+  "town": "西荒井町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "にしいたがき",
+  "town": "西板垣町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "にしおおみ",
+  "town": "西大味町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "にしかいほつ１～５",
+  "town": "西開発１～５丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "にしがくえん１～３",
+  "town": "西学園１～３丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "にしかた１～２",
+  "town": "西方１～２丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "にしきだ１～２",
+  "town": "西木田１～２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   },
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "にしきだ３",
+  "town": "西木田３丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   },
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "にしきだ４～５",
+  "town": "西木田４～５丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "にししもの",
+  "town": "西下野町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "にししんまち",
+  "town": "西新町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "一乗"
+   }
+  ]
+ },
+ {
+  "kana": "にしたに",
+  "town": "西谷町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "にしたに１",
+  "town": "西谷１丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "にしたに２～３",
+  "town": "西谷２～３丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "にしなかの",
+  "town": "西中野町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "にしはた",
+  "town": "西畑町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "にしぶくろ",
+  "town": "西袋町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "にしふたつや",
+  "town": "西二ッ屋町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "にしべっしょ",
+  "town": "西別所町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "にしぼり",
+  "town": "西堀町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "にっこう１～２",
+  "town": "日光１～２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   },
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   }
+  ]
+ },
+ {
+  "kana": "にったづか",
+  "town": "新田塚町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "にったづか１～２",
+  "town": "新田塚１～２丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "にのみや１～２",
+  "town": "二の宮１～２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "にのみや３",
+  "town": "二の宮３丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "にのみや４",
+  "town": "二の宮４丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   },
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "にのみや５",
+  "town": "二の宮５丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "にい",
+  "town": "仁位町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "にしあまだ",
+  "town": "西天田町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "にしいちぬの",
+  "town": "西市布町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "にしこうばら",
+  "town": "西河原町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "にしなか",
+  "town": "西中町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ぬいはら",
+  "town": "縫原町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ねこせ",
+  "town": "猫瀬町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "のなみ",
+  "town": "野波町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "はざか",
+  "town": "羽坂町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "安居"
+   }
+  ]
+ },
+ {
+  "kana": "はたけなか",
+  "town": "畠中町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "はなのたに",
+  "town": "花野谷町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "はなもり",
+  "town": "花守町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "はなんどう",
+  "town": "花堂町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   },
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "はなんどうきた１",
+  "town": "花堂北１丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "はなんどうきた２",
+  "town": "花堂北２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   },
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "はなんどうなか１",
+  "town": "花堂中１丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   },
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "はなんどうなか２",
+  "town": "花堂中２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "はなんどうひがし１",
+  "town": "花堂東１丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "はなんどうひがし２",
+  "town": "花堂東２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   },
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "はなんどうみなみ１～２",
+  "town": "花堂南１～２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "はましま",
+  "town": "浜島町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "はまじゅう",
+  "town": "浜住町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "はまべっしょ",
+  "town": "浜別所町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "はやし",
+  "town": "林町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "はやしふじしま",
+  "town": "林藤島町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "はらめ",
+  "town": "原目町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "はるやま１",
+  "town": "春山１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "はるやま２",
+  "town": "春山２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   },
+   {
+    "block": "不死鳥",
+    "district": "順化"
+   }
+  ]
+ },
+ {
+  "kana": "はんだ",
+  "town": "半田町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "はかりいし",
+  "town": "計石町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "はまきたやま",
+  "town": "浜北山町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "越廼"
+   }
+  ]
+ },
+ {
+  "kana": "ひがしいまいずみ",
+  "town": "東今泉町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "ひがしおおみ",
+  "town": "東大味町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   }
+  ]
+ },
+ {
+  "kana": "ひがししもの",
+  "town": "東下野町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "ひがししんまち",
+  "town": "東新町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "一乗"
+   }
+  ]
+ },
+ {
+  "kana": "ひがしだいら",
+  "town": "東平町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "ひがしもりだ１～４",
+  "town": "東森田１～４丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "ひきめ",
+  "town": "引目町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "清明"
+   }
+  ]
+ },
+ {
+  "kana": "ひので１～３",
+  "town": "日之出１～３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   },
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   }
+  ]
+ },
+ {
+  "kana": "ひので４～５",
+  "town": "日之出４～５丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   }
+  ]
+ },
+ {
+  "kana": "ひがしあまだ",
+  "town": "東天田町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ひがしかわかみ",
+  "town": "東川上町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ひがしこうばら",
+  "town": "東河原町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ひがしまた",
+  "town": "東俣町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "ひらお",
+  "town": "平尾町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "ふかさか",
+  "town": "深坂町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "ふかたに",
+  "town": "深谷町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "ふかみ",
+  "town": "深見町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "ふくしんまち",
+  "town": "福新町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社西"
+   }
+  ]
+ },
+ {
+  "kana": "ふくまち",
+  "town": "福町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   },
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "ふく１",
+  "town": "福１丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "ふく２",
+  "town": "福２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   },
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "ふじしま",
+  "town": "藤島町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "ぶしゅう",
+  "town": "武周町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "ふせだ",
+  "town": "布施田町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "ふたがみ",
+  "town": "二上町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "ふたつや",
+  "town": "二ッ屋町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "ふちまち",
+  "town": "渕町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "ふち１～３",
+  "town": "渕１～３丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "ふち４",
+  "town": "渕４丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社西"
+   }
+  ]
+ },
+ {
+  "kana": "ふつかいち",
+  "town": "二日市町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "ふなばし",
+  "town": "舟橋町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   },
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "ふなばし１～３",
+  "town": "舟橋１～３丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "中藤島"
+   }
+  ]
+ },
+ {
+  "kana": "ふなばしくろたつ１～２",
+  "town": "舟橋黒竜１～２丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "ふなばししん１～２",
+  "town": "舟橋新１～２丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "ふなばししんまち",
+  "town": "舟橋新町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "明新"
+   }
+  ]
+ },
+ {
+  "kana": "ふゆの",
+  "town": "冬野町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "ふるいち",
+  "town": "古市町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "ふるいち１～３",
+  "town": "古市１～３丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "ぶんきょう１",
+  "town": "文京１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   },
+   {
+    "block": "不死鳥",
+    "district": "宝永"
+   },
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "ぶんきょう２",
+  "town": "文京２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   },
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "ぶんきょう３～４",
+  "town": "文京３～４丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "ぶんきょう５",
+  "town": "文京５丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   }
+  ]
+ },
+ {
+  "kana": "ぶんきょう６",
+  "town": "文京６丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   },
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   }
+  ]
+ },
+ {
+  "kana": "ぶんきょう７",
+  "town": "文京７丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "湊"
+   },
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "ふくしま",
+  "town": "福島町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "べっしょ",
+  "town": "別所町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   }
+  ]
+ },
+ {
+  "kana": "べつばた",
+  "town": "別畑町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "ほうえい１～４",
+  "town": "宝永１～４丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "宝永"
+   }
+  ]
+ },
+ {
+  "kana": "ほこがさき",
+  "town": "鉾ヶ崎町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "ほそさか",
+  "town": "細坂町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "安居"
+   }
+  ]
+ },
+ {
+  "kana": "ほだに",
+  "town": "帆谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "上文殊"
+   },
+   {
+    "block": "足羽",
+    "district": "文殊"
+   }
+  ]
+ },
+ {
+  "kana": "ほりのみや",
+  "town": "堀ノ宮町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "ほりのみや１",
+  "town": "堀ノ宮１丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "ほんどう",
+  "town": "本堂町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "安居"
+   }
+  ]
+ },
+ {
+  "kana": "まいや",
+  "town": "舞屋町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "まえば",
+  "town": "前波町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "酒生"
+   }
+  ]
+ },
+ {
+  "kana": "まき",
+  "town": "真木町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "まちや１～３",
+  "town": "町屋１～３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "まつかげ",
+  "town": "松蔭町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "まつしろ",
+  "town": "松城町",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   },
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "まつもと１",
+  "town": "松本１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "まつもと２～３",
+  "town": "松本２～３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   },
+   {
+    "block": "不死鳥",
+    "district": "宝永"
+   }
+  ]
+ },
+ {
+  "kana": "まつもと４",
+  "town": "松本４丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "宝永"
+   },
+   {
+    "block": "不死鳥",
+    "district": "春山"
+   }
+  ]
+ },
+ {
+  "kana": "まつもとかみ",
+  "town": "松本上町",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "松本"
+   }
+  ]
+ },
+ {
+  "kana": "まやま",
+  "town": "間山町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "まるやま",
+  "town": "丸山町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   },
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "まるやま１～３",
+  "town": "丸山１～３丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "啓蒙"
+   }
+  ]
+ },
+ {
+  "kana": "まと",
+  "town": "間戸町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "まくり",
+  "town": "真栗町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水南"
+   }
+  ]
+ },
+ {
+  "kana": "みおの",
+  "town": "三尾野町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "みずきり",
+  "town": "水切町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "みずこし１～２",
+  "town": "水越１～２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   }
+  ]
+ },
+ {
+  "kana": "みずたに",
+  "town": "水谷町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "殿下"
+   }
+  ]
+ },
+ {
+  "kana": "みつや",
+  "town": "三ツ屋町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "みつや１～２",
+  "town": "三ツ屋１～２丁目",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "みなみえもり",
+  "town": "南江守町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "みなみすごう",
+  "town": "南菅生町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "みなみならはら",
+  "town": "南楢原町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "大安寺"
+   }
+  ]
+ },
+ {
+  "kana": "みなみやま",
+  "town": "南山町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "みなみよつい",
+  "town": "南四ッ居町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "みなみよつい１～２",
+  "town": "南四ッ居１～２丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "みの",
+  "town": "蓑町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "みのり１",
+  "town": "みのり１丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "木田"
+   },
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "みのり２～４",
+  "town": "みのり２～４丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "みやけ",
+  "town": "三宅町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鶉"
+   }
+  ]
+ },
+ {
+  "kana": "みやごう",
+  "town": "宮郷町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "みやじ",
+  "town": "宮地町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "みゆき１～２",
+  "town": "御幸１～２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   }
+  ]
+ },
+ {
+  "kana": "みゆき３",
+  "town": "御幸３丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "旭"
+   },
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "みゆき４",
+  "town": "御幸４丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "みなみにしまた",
+  "town": "南西俣町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "みなみのつまた",
+  "town": "南野津又町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "みなみみやじ",
+  "town": "南宮地町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "みやま",
+  "town": "美山町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "みやまおおたに",
+  "town": "美山大谷町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "みとめ",
+  "town": "三留町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ },
+ {
+  "kana": "むいかいち",
+  "town": "六日市町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "めら",
+  "town": "和布町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "めんどり",
+  "town": "免鳥町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "鷹巣"
+   }
+  ]
+ },
+ {
+  "kana": "ももぞの１～２",
+  "town": "桃園１～２丁目",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "もりゆき",
+  "town": "森行町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "麻生津"
+   }
+  ]
+ },
+ {
+  "kana": "もんぜん",
+  "town": "門前町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "もんぜん１～２",
+  "town": "門前１～２丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   },
+   {
+    "block": "みなみ",
+    "district": "社南"
+   }
+  ]
+ },
+ {
+  "kana": "もとおり",
+  "town": "本折町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "やえまき",
+  "town": "八重巻町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "やえまきなか",
+  "town": "八重巻中町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "やえまきひがし",
+  "town": "八重巻東町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "森田"
+   }
+  ]
+ },
+ {
+  "kana": "やすだ",
+  "town": "安田町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "安居"
+   }
+  ]
+ },
+ {
+  "kana": "やすたけ",
+  "town": "安竹町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "西藤島"
+   }
+  ]
+ },
+ {
+  "kana": "やすはら",
+  "town": "安原町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "やつしま",
+  "town": "八ツ島町",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   }
+  ]
+ },
+ {
+  "kana": "やつしま１",
+  "town": "八ッ島１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日新"
+   }
+  ]
+ },
+ {
+  "kana": "やまおく",
+  "town": "山奥町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "豊"
+   }
+  ]
+ },
+ {
+  "kana": "やまむろ",
+  "town": "山室町",
+  "areas": [
+   {
+    "block": "九頭竜",
+    "district": "河合"
+   }
+  ]
+ },
+ {
+  "kana": "やわた",
+  "town": "八幡町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "本郷"
+   }
+  ]
+ },
+ {
+  "kana": "やくし",
+  "town": "薬師町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "やつまた",
+  "town": "八ツ俣町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "越廼"
+   }
+  ]
+ },
+ {
+  "kana": "やまうち",
+  "town": "山内町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水西"
+   }
+  ]
+ },
+ {
+  "kana": "ゆうらく",
+  "town": "有楽町",
+  "areas": [
+   {
+    "block": "あたご",
+    "district": "足羽"
+   }
+  ]
+ },
+ {
+  "kana": "よつい１～２",
+  "town": "四ッ井１～２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   }
+  ]
+ },
+ {
+  "kana": "よねまつ１",
+  "town": "米松１丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   },
+   {
+    "block": "あずま",
+    "district": "円山"
+   }
+  ]
+ },
+ {
+  "kana": "よねまつ２",
+  "town": "米松２丁目",
+  "areas": [
+   {
+    "block": "不死鳥",
+    "district": "日之出"
+   }
+  ]
+ },
+ {
+  "kana": "よこごし",
+  "town": "横越町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "よしやま",
+  "town": "吉山町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "美山"
+   }
+  ]
+ },
+ {
+  "kana": "りょうはしや",
+  "town": "両橋屋町",
+  "areas": [
+   {
+    "block": "川西",
+    "district": "棗"
+   }
+  ]
+ },
+ {
+  "kana": "りょうまち",
+  "town": "寮町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "岡保"
+   }
+  ]
+ },
+ {
+  "kana": "わかえ",
+  "town": "若栄町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "東藤島"
+   }
+  ]
+ },
+ {
+  "kana": "わかすぎ",
+  "town": "若杉町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "わかすぎ１～４",
+  "town": "若杉１～４丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "わかすぎはま１～３",
+  "town": "若杉浜１～３丁目",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "わきさんが",
+  "town": "脇三ヶ町",
+  "areas": [
+   {
+    "block": "足羽",
+    "district": "東郷"
+   }
+  ]
+ },
+ {
+  "kana": "わだ１～３",
+  "town": "和田１～３丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "わだなか",
+  "town": "和田中町",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "わだなか１～３",
+  "town": "和田中１～３丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "わだひがし１～２",
+  "town": "和田東１～２丁目",
+  "areas": [
+   {
+    "block": "あずま",
+    "district": "和田"
+   }
+  ]
+ },
+ {
+  "kana": "わたり",
+  "town": "渡町",
+  "areas": [
+   {
+    "block": "みなみ",
+    "district": "東安居"
+   },
+   {
+    "block": "みなみ",
+    "district": "社北"
+   }
+  ]
+ },
+ {
+  "kana": "わだ",
+  "town": "和田町",
+  "areas": [
+   {
+    "block": "光",
+    "district": "清水東"
+   }
+  ]
+ }
+]
