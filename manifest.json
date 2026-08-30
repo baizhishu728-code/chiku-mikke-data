@@ -1,0 +1,9 @@
+{
+  "prefectures": [
+    {
+      "slug": "fukui",
+      "name": "福井県",
+      "available": true
+    }
+  ]
+}
